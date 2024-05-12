@@ -1,0 +1,44 @@
+{
+  "seed": null,
+  "game": {
+    "Create": "Round2"
+  },
+  "players": [
+    {
+      "Tcp": {
+        "host": null,
+        "port": 31001,
+        "accept_timeout": null,
+        "timeout": null,
+        "token": null
+      }
+    },
+    {
+      "Tcp": {
+        "host": null,
+        "port": 31002,
+        "accept_timeout": null,
+        "timeout": null,
+        "token": null
+      }
+    },
+    {
+      "Tcp": {
+        "host": null,
+        "port": 31003,
+        "accept_timeout": null,
+        "timeout": null,
+        "token": null
+      }
+    },
+    {
+      "Tcp": {
+        "host": null,
+        "port": 31004,
+        "accept_timeout": null,
+        "timeout": null,
+        "token": null
+      }
+    }
+  ]
+}

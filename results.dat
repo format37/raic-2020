@@ -1,0 +1,17 @@
+{
+  "players": [
+    {
+      "crashed": false,
+      "comment": null
+    },
+    {
+      "crashed": false,
+      "comment": null
+    }
+  ],
+  "results": [
+    154640,
+    145628
+  ],
+  "seed": 11187186611345202053
+}

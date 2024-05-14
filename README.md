@@ -7,6 +7,7 @@
 ```
 sh watch_replay.sh
 ```
+[![AI CUP 2020 - CodeCraft](http://img.youtube.com/vi/x0XAyex10cE/0.jpg)](https://www.youtube.com/watch?v=x0XAyex10cE "AI CUP 2020 - CodeCraft")
 ### Run server
 ```
 sh 1start.sh
